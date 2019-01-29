@@ -1,0 +1,3 @@
+rootProject.name = 'Glucode'
+
+include ':app'
